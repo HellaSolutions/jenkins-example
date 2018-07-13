@@ -1,0 +1,1 @@
+Maven project with Jenkins support example
