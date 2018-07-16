@@ -7,4 +7,8 @@ public class HelloWorld {
         return hello;
     }
 
+    public static void main(String[] args){
+        new HelloWorld().sayHello("Hello");
+    }
+
 }
