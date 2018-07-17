@@ -1,6 +1,8 @@
 Maven project with Jenkins support example
 
-##Running and stopping Jenkins docker image 
+(to be completed)
+
+## Running and stopping Jenkins docker image 
 
 ```
 docker run \
